@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,strandedness
+COND1_1_sh,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND1sh_1_S4_R1_001.fastq.gz,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND1sh_1_S4_R2_001.fastq.gz,auto
+COND1_2_sh,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND1sh_2_S5_R1_001.fastq.gz,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND1sh_2_S5_R2_001.fastq.gz,auto
+COND2_1_sh,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND2sh_1_S16_R1_001.fastq.gz,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND2sh_1_S16_R2_001.fastq.gz,auto
+COND2_2_sh,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND2sh_2_S17_R1_001.fastq.gz,https://raw.githubusercontent.com/lconde-ucl/test_datasets/main/rnaseq/COND2sh_2_S17_R2_001.fastq.gz,auto
